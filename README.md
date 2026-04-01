@@ -4,9 +4,7 @@
 Open `index.html` directly in Chrome or Edge.
 
 ## Demo Users
-- suhib / admin123
-- fatema / manager123
-- abeer / viewer123
+
 
 ## What was updated in this version
 - Added **Number of Days**
